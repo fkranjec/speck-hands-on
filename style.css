@@ -72,6 +72,11 @@ h2 {
     padding: 32px 0;
 }
 
+.header.header_secondary{
+    background-color: var(--color-text-primary);
+    position: relative;
+}
+
 .header__inner{
     width: 1300px;
     margin: 0 auto;
